@@ -1,0 +1,7 @@
+D:\Project\Project.net\ConsoleApp.net Day1(day5)\ConsoleApp.net Day1(day5)\bin\Debug\ConsoleApp.net Day1(day5).exe.config
+D:\Project\Project.net\ConsoleApp.net Day1(day5)\ConsoleApp.net Day1(day5)\bin\Debug\ConsoleApp.net Day1(day5).exe
+D:\Project\Project.net\ConsoleApp.net Day1(day5)\ConsoleApp.net Day1(day5)\bin\Debug\ConsoleApp.net Day1(day5).pdb
+D:\Project\Project.net\ConsoleApp.net Day1(day5)\ConsoleApp.net Day1(day5)\obj\Debug\ConsoleApp.net Day1(day5).csproj.AssemblyReference.cache
+D:\Project\Project.net\ConsoleApp.net Day1(day5)\ConsoleApp.net Day1(day5)\obj\Debug\ConsoleApp.net Day1(day5).csproj.CoreCompileInputs.cache
+D:\Project\Project.net\ConsoleApp.net Day1(day5)\ConsoleApp.net Day1(day5)\obj\Debug\ConsoleApp.net Day1(day5).exe
+D:\Project\Project.net\ConsoleApp.net Day1(day5)\ConsoleApp.net Day1(day5)\obj\Debug\ConsoleApp.net Day1(day5).pdb
